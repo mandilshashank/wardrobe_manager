@@ -1,7 +1,18 @@
 Wardrobe Manager
 
 What is wardrobe manager?
-Wardrobe Manager is an android application that will help users to keep track of their accessories and maintain their wardrobe. 
+Wardrobe Manager is an application that will help users to keep track of their accessories and maintain their wardrobe. The application purpose is to collect data regarding the users wardrobe and use that data to help them buy stuff online as per their taste and brand choice.
 
 What will the application store?
-The application will store information regarding the collection of clothes, accessories a person have and keep track of the different dya to day activities related to clothes and accessories.
+The application will store information regarding the collection of clothes, accessories a person have and keep track of the different day to day activities related to clothes and accessories.
+
+Will the application also have an online web portal?
+Yes the application will also have an online web portal.
+First we re going with the android application. Once we launch the application we will be launching the online portal.
+
+What kind of database would be used?
+Since this will be a multi platform application we plan to use mysql or sqlite database which can be accessed through php scripts so that we can have the same data for a user available for all the platforms.
+
+
+
+
